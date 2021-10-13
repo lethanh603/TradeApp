@@ -1,0 +1,6 @@
+#https://expo.dev/accounts/lethanh603/projects/TradeApp?created_on_web=true
+#create project in expo.io
+npm i -g expo-cli
+expo init TradeApp
+# UI
+#https://snack.expo.dev/@react-native-paper/github.com-callstack-react-native-paper:example
